@@ -47,6 +47,7 @@ You may have to discretize the space of following parameters.
 | assets folder| Folder to store all the images needed for the Flappy Bird Environment.|
 | data folder| Folder. Contains: models saved in H5 and JSON format. Also all the statistics - epsiode, duration, reward, score saved in JSON format needed for the final report flappy_bird_project_report.ipnyb.|
 | images folder| Folder to store all the images needed for the jupyter notebooks to render properly - equations, images, etc.|
+| util folder| Folder to store all the utility files required to render the pygame environment|
 
 ## Requirements
 * tensorflow
