@@ -25,14 +25,14 @@ Please use the openai gym environment for this project:
 
 https://gym.openai.com/envs/FlappyBird-v0/
 
-*End Goal*
+## End Goal
 
 Determine a good policy for Flappy Birds using any one or more of the following algorithms (aim to get 140 points or more!):
 
 Policy Iteration, Value Iteration, Q Learning, TD, Monte Carlo
 You may have to discretize the space of following parameters.
 
-*Folder Structure:*
+## Folder Structure:
 
 | File | Description |
 | --- | --- |
@@ -48,12 +48,12 @@ You may have to discretize the space of following parameters.
 | data folder| Folder. Contains: models saved in H5 and JSON format. Also all the statistics - epsiode, duration, reward, score saved in JSON format needed for the final report flappy_bird_project_report.ipnyb.|
 | images folder| Folder to store all the images needed for the jupyter notebooks to render properly - equations, images, etc.|
 
-*Requirements*
-tensorflow
-Keras
-gym
-pygame
-pygame=2.0.0.dev4 (For macos mojave and above)
-matplotlib
-numpy
-pandas
+## Requirements
+* tensorflow
+* Keras
+* gym
+* pygame
+* pygame=2.0.0.dev4 (For macos mojave and above)
+* matplotlib
+* numpy
+* pandas
